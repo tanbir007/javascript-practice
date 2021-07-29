@@ -1,0 +1,17 @@
+
+
+
+.flex-1 {
+    display: flex;
+    border-top: 1px solid lightgray;
+    padding:25px;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 5px;
+}
+ .btn1 {
+    display: flex;
+    padding: 20px;
+    border-top: 1px solid lightgray;
+    align-items:center;
+}
